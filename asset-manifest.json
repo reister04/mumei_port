@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mumei_portfolio/static/css/main.fe1381ae.css",
+    "main.js": "/mumei_portfolio/static/js/main.afb7708f.js",
+    "static/media/a2.png": "/mumei_portfolio/static/media/a2.9b64016aeee2f3f0ff60.png",
+    "static/media/f4.jpg": "/mumei_portfolio/static/media/f4.91e5b830095a69d27fc9.jpg",
+    "static/media/me_full.png": "/mumei_portfolio/static/media/me_full.916572b7fc7f2d4230ab.png",
+    "static/media/s3.jpg": "/mumei_portfolio/static/media/s3.fe6252f9e70df337d6ca.jpg",
+    "static/media/f1.jpg": "/mumei_portfolio/static/media/f1.eab557e584f7af7da2e2.jpg",
+    "static/media/a3.jpg": "/mumei_portfolio/static/media/a3.ba95f6c6c22bf156ff13.jpg",
+    "static/media/f3.jpg": "/mumei_portfolio/static/media/f3.d63016c694d71253b282.jpg",
+    "static/media/bg.jpg": "/mumei_portfolio/static/media/bg.8a4142659470445c3510.jpg",
+    "static/media/a1.jpg": "/mumei_portfolio/static/media/a1.1eb8f7f1656768fb1610.jpg",
+    "static/media/me.png": "/mumei_portfolio/static/media/me.767906df99177eddaf63.png",
+    "static/media/s2.jpg": "/mumei_portfolio/static/media/s2.6b29867a07494618708e.jpg",
+    "static/media/f2.jpg": "/mumei_portfolio/static/media/f2.0cb2d83d429a1e511158.jpg",
+    "static/media/s1.jpg": "/mumei_portfolio/static/media/s1.ba66a990c09d3f2e51b6.jpg",
+    "static/media/logo.png": "/mumei_portfolio/static/media/logo.00ec132437c07232419e.png",
+    "index.html": "/mumei_portfolio/index.html",
+    "main.fe1381ae.css.map": "/mumei_portfolio/static/css/main.fe1381ae.css.map",
+    "main.afb7708f.js.map": "/mumei_portfolio/static/js/main.afb7708f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe1381ae.css",
+    "static/js/main.afb7708f.js"
+  ]
+}
