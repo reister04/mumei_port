@@ -15,7 +15,7 @@ import '../assets/stylesheets/style.css';
 class App extends Component {
     render() {
         return (
-            <Router>
+            <Router basename="/mumei_port" >
                 <Navbar bg="light" variant="light" className='border-bottom border-info border-2'>
                     <Container fluid>
                     <Navbar.Brand href="/" className='navlink fw-bold'><img src={Logo} alt="hololive logo" style={{height: 40}}></img></Navbar.Brand>
