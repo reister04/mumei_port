@@ -18,7 +18,7 @@ class App extends Component {
             <Router basename="/mumei_port" >
                 <Navbar bg="light" variant="light" className='border-bottom border-info border-2'>
                     <Container fluid>
-                    <Navbar.Brand href="/" className='navlink fw-bold'><img src={Logo} alt="hololive logo" style={{height: 40}}></img></Navbar.Brand>
+                    <Navbar.Brand href="/mumei_port" className='navlink fw-bold'><img src={Logo} alt="hololive logo" style={{height: 40}}></img></Navbar.Brand>
                     <Nav className="ms-auto">
                         <Link className='navlink nav-link' to="/">Home</Link>
                         <Link className='navlink nav-link' to="/aboutme">About Me</Link>
